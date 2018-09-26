@@ -5,4 +5,4 @@ Simple.cpp includes pricing of European Calls and American Puts methods such as 
 
 LessSimple.cpp includes pricing of Rainbow and Asian options as well as the Cholesky decomposition of matrices.
 
-Both files include helper functions that were borrowed and not my work such as the cumulative normal distribution function or the Black Scholes function. 
+Both files include helper functions that were borrowed and not my work such as the cumulative normal distribution function or the Black Scholes function. The files cutility.cpp and MersenneTwister.cpp are not my work. Data files are included in this repository. 
